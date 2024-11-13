@@ -68,6 +68,7 @@ flowchart TD
 - Chaîne de métal pour fixer le sac.
 - Peinture.
 - Des poids pour forcer le sac de sable à rester droit.
+- Duct tape
 
 ### Logiciels
 - Arduino
@@ -80,15 +81,16 @@ flowchart TD
 - 7 Machines Arduino
 - 5 Senseurs de force
 - 5 LEDs uniques
-- 6 mètres de LEDs
-- 1 sac de sable
-- 1 paire de gants de boxe
-- 1 paire d'écouteurs bluetooth
-- branchement du matériel Arduino
+- 6 Mètres de LEDs
+- 1 Sac de sable
+- 1 Paire de gants de boxe
+- 1 Paire d'écouteurs bluetooth
+- Branchement du matériel Arduino
+- Duct tape
 
 **Fournis par l'organisateur**
 - 2 Lumières de scène (Spotlight)
-- 1 ordinateur
+- 1 Ordinateur
 - Des Poids du grand studio
 
 ### Placement dans le studio
