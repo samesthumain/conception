@@ -69,7 +69,7 @@ flowchart TD
 - Peinture.
 - Des poids pour forcer le sac de sable à rester droit.
 
-### Logiciel
+### Logiciels
 - Arduino
 - Reaper
 - Max
