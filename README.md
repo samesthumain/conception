@@ -81,7 +81,7 @@ flowchart TD
 - 7 Machines Arduino
 - 5 Senseurs de force
 - 5 LEDs uniques
-- 6 Mètres de LEDs
+- 8 Mètres de LEDs
 - 1 Sac de sable
 - 1 Paire de gants de boxe
 - 1 Paire d'écouteurs bluetooth
